@@ -1,6 +1,6 @@
 # Carbon
 
-(Actual repo, [here](https://github.com/GriffinWJones/Carbon). It's set up this way, because our workflow benefitted from primarily sharing files over managing git branches, and as such, I otherwise wouldn't be listed as a contributer on the actual repo. In particular, I worked on backend things like all of the account features and database integration.)
+Actual repo, [here](https://github.com/GriffinWJones/Carbon). It's set up this way, because our workflow benefitted from primarily sharing files over managing git branches, and as such, I otherwise wouldn't be listed as a contributer on the actual repo. In particular, I worked on backend things like all of the account features and database integration.
 
 ## Screenshots
 
