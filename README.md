@@ -1,6 +1,6 @@
 # Carbon
 
-Actual repo, [here](https://github.com/GriffinWJones/Carbon). It's set up this way, because our workflow benefitted from primarily sharing files over managing git branches, and as such, I otherwise wouldn't be listed as a contributer on the actual repo. In particular, I worked on backend things like all of the account features and database integration. The devpost for the project can be found [here](https://devpost.com/software/carbon-6785gb).
+Actual repo, [here](https://github.com/GriffinWJones/Carbon). It's set up this way, because our workflow benefitted from primarily sharing files over managing git branches, and as such, I otherwise wouldn't be listed as a contributor on the actual repo. I specifically worked on frontend screens like the carpool bulletin where friends can request carpools from each other and the leaderboard where people can see who's been the most eco-friendly locally and globally. The devpost for the project can be found [here](https://devpost.com/software/carbon-6785gb).
 
 ## Screenshots
 
